@@ -1,0 +1,10 @@
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.exe
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.deps.json
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.runtimeconfig.json
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.dll
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\bin\Debug\netcoreapp3.1\DeliveryDetails.pdb
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\obj\Debug\netcoreapp3.1\DeliveryDetails.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\obj\Debug\netcoreapp3.1\DeliveryDetails.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\obj\Debug\netcoreapp3.1\DeliveryDetails.dll
+D:\sravani\c#\HandsOn\08-01-2020\DeliveryDetais\obj\Debug\netcoreapp3.1\DeliveryDetails.pdb

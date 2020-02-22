@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.exe
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.deps.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.runtimeconfig.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\bin\Debug\netcoreapp3.1\DemoOnFactory.pdb
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\obj\Debug\netcoreapp3.1\DemoOnFactory.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\obj\Debug\netcoreapp3.1\DemoOnFactory.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\obj\Debug\netcoreapp3.1\DemoOnFactory.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\obj\Debug\netcoreapp3.1\DemoOnFactory.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnFactory\obj\Debug\netcoreapp3.1\DemoOnFactory.pdb

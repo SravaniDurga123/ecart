@@ -1,0 +1,6 @@
+C:\angular\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.exe.config
+C:\angular\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.exe
+C:\angular\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.pdb
+C:\angular\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.csprojAssemblyReference.cache
+C:\angular\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.exe
+C:\angular\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.pdb

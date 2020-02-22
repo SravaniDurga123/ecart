@@ -1,0 +1,6 @@
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.exe.config
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.exe
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.pdb
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.exe
+D:\sravani\c#\HandsOn\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.pdb

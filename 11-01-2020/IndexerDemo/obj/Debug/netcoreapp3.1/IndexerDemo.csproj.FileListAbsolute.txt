@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfo.cs
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.exe
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.deps.json
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.json
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.dev.json
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\dell\source\repos\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.pdb
+C:\Users\dell\source\repos\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\dell\source\repos\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.pdb

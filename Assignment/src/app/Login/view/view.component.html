@@ -1,0 +1,18 @@
+<p>view works!</p>
+<div>
+    <table>
+        <tr>
+            <td>UserName</td>
+            <td><input type="text" [(ngModel)]="obj.uname">
+        </tr>
+        <tr>
+            <td>password</td>
+            <td><input type="text" [(ngModel)]="obj.pwd"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button (click)="submit()">Login</button></td>
+        </tr>
+    </table>
+    {{res}}
+</div>

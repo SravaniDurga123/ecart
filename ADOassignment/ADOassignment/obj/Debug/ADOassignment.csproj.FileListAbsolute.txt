@@ -1,0 +1,6 @@
+C:\angular\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe.config
+C:\angular\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe
+C:\angular\ADOassignment\ADOassignment\bin\Debug\ADOassignment.pdb
+C:\angular\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csprojAssemblyReference.cache
+C:\angular\ADOassignment\ADOassignment\obj\Debug\ADOassignment.exe
+C:\angular\ADOassignment\ADOassignment\obj\Debug\ADOassignment.pdb

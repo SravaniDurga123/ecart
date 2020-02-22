@@ -1,0 +1,10 @@
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+D:\sravani\c#\HandsOn\09-01-2020\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb

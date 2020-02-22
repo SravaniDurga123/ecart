@@ -1,0 +1,42 @@
+<p>demo2 works!</p>
+<div>
+    <table>
+        <tr>
+            <td>Id</td>
+            <td><input type="number" [(ngModel)]="obj.empid"></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" [(ngModel)]="obj.empname"></td>
+        </tr>
+        <tr>
+            <td>join date</td>
+            <td><input type="date" [(ngModel)]="obj.joindate"></td>
+        </tr>
+        <tr>
+            <td>Designation</td>
+            <td><select [(ngModel)]="obj.designation">
+                <option >programmer</option>
+                <option>teamlead</option>
+                <option>project lead</option>
+                <option>senior programmer</option>
+            </select></td>
+        </tr>
+        <tr>
+            <td>Salary</td>
+            <td><input type="number" [(ngModel)]="obj.salary"></td>
+        </tr>
+    </table>
+</div>
+<div>
+   <button (click)="display()">submit</button>
+    <pre>
+   <h2>details</h2>
+    <!-- Id:{{obj.empid}}
+    Name:{{obj.empname}}
+    joindate:{{obj.joindate}}
+    Designation:{{obj.designation}}
+    Salary:{{obj.salary}} --> 
+    {{s}}
+    </pre>
+</div>

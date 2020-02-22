@@ -1,0 +1,10 @@
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.exe
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.deps.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.runtimeconfig.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\bin\Debug\netcoreapp3.1\DemoOnParam.pdb
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\obj\Debug\netcoreapp3.1\DemoOnParam.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\obj\Debug\netcoreapp3.1\DemoOnParam.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\obj\Debug\netcoreapp3.1\DemoOnParam.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnParam\obj\Debug\netcoreapp3.1\DemoOnParam.pdb

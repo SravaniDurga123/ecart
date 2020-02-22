@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\obj\Debug\netcoreapp3.1\DemoOnSingleton.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\obj\Debug\netcoreapp3.1\DemoOnSingleton.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\obj\Debug\netcoreapp3.1\DemoOnSingleton.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.exe
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.deps.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.runtimeconfig.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\bin\Debug\netcoreapp3.1\DemoOnSingleton.pdb
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\obj\Debug\netcoreapp3.1\DemoOnSingleton.dll
+D:\sravani\c#\HandsOn\11-01-2020\DemoOnSongleton\obj\Debug\netcoreapp3.1\DemoOnSingleton.pdb

@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.exe
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.deps.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.runtimeconfig.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\bin\Debug\netcoreapp3.1\DemoOnThreading.pdb
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\obj\Debug\netcoreapp3.1\DemoOnThreading.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\obj\Debug\netcoreapp3.1\DemoOnThreading.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\obj\Debug\netcoreapp3.1\DemoOnThreading.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\obj\Debug\netcoreapp3.1\DemoOnThreading.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnThreading\obj\Debug\netcoreapp3.1\DemoOnThreading.pdb

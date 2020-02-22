@@ -1,0 +1,6 @@
+D:\sravani\c#\HandsOn\Exercise1\bin\Debug\Exercise1.exe.config
+D:\sravani\c#\HandsOn\Exercise1\bin\Debug\Exercise1.exe
+D:\sravani\c#\HandsOn\Exercise1\bin\Debug\Exercise1.pdb
+D:\sravani\c#\HandsOn\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\Exercise1\obj\Debug\Exercise1.exe
+D:\sravani\c#\HandsOn\Exercise1\obj\Debug\Exercise1.pdb

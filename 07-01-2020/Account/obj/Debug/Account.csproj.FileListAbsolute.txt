@@ -1,0 +1,6 @@
+D:\sravani\c#\HandsOn\07-01-2020\Account\obj\Debug\Account.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\07-01-2020\Account\bin\Debug\Account.exe.config
+D:\sravani\c#\HandsOn\07-01-2020\Account\bin\Debug\Account.exe
+D:\sravani\c#\HandsOn\07-01-2020\Account\bin\Debug\Account.pdb
+D:\sravani\c#\HandsOn\07-01-2020\Account\obj\Debug\Account.exe
+D:\sravani\c#\HandsOn\07-01-2020\Account\obj\Debug\Account.pdb

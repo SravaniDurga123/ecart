@@ -1,0 +1,10 @@
+C:\angular\EFDAL\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.deps.json
+C:\angular\EFDAL\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.dll
+C:\angular\EFDAL\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.csprojAssemblyReference.cache
+C:\angular\EFDAL\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfoInputs.cache
+C:\angular\EFDAL\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfo.cs
+C:\angular\EFDAL\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.json
+C:\angular\EFDAL\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.dev.json
+C:\angular\EFDAL\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.pdb
+C:\angular\EFDAL\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.dll
+C:\angular\EFDAL\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.pdb

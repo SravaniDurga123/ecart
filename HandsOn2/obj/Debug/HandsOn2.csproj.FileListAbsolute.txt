@@ -1,0 +1,6 @@
+D:\sravani\c#\HandsOn\HandsOn2\bin\Debug\HandsOn2.exe.config
+D:\sravani\c#\HandsOn\HandsOn2\bin\Debug\HandsOn2.exe
+D:\sravani\c#\HandsOn\HandsOn2\bin\Debug\HandsOn2.pdb
+D:\sravani\c#\HandsOn\HandsOn2\obj\Debug\HandsOn2.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\HandsOn2\obj\Debug\HandsOn2.exe
+D:\sravani\c#\HandsOn\HandsOn2\obj\Debug\HandsOn2.pdb

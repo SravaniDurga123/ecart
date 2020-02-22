@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\sravani\c#\HandsOn\08-01-2020\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb

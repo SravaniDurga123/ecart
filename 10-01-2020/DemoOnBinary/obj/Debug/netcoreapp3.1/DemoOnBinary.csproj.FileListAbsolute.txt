@@ -1,0 +1,10 @@
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.exe
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.deps.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.runtimeconfig.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\bin\Debug\netcoreapp3.1\DemoOnBinary.pdb
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\obj\Debug\netcoreapp3.1\DemoOnBinary.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\obj\Debug\netcoreapp3.1\DemoOnBinary.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\obj\Debug\netcoreapp3.1\DemoOnBinary.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnBinary\obj\Debug\netcoreapp3.1\DemoOnBinary.pdb

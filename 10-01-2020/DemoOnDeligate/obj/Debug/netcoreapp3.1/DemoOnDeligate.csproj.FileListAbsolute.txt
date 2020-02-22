@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.exe
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.deps.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.runtimeconfig.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\bin\Debug\netcoreapp3.1\DemoOnDeligate.pdb
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\obj\Debug\netcoreapp3.1\DemoOnDeligate.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\obj\Debug\netcoreapp3.1\DemoOnDeligate.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\obj\Debug\netcoreapp3.1\DemoOnDeligate.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\obj\Debug\netcoreapp3.1\DemoOnDeligate.dll
+D:\sravani\c#\HandsOn\10-01-2020\DemoOnDeligate\obj\Debug\netcoreapp3.1\DemoOnDeligate.pdb

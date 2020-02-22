@@ -1,0 +1,11 @@
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\obj\Debug\netcoreapp3.1\PartialDemo.csprojAssemblyReference.cache
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\obj\Debug\netcoreapp3.1\PartialDemo.AssemblyInfoInputs.cache
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\obj\Debug\netcoreapp3.1\PartialDemo.AssemblyInfo.cs
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.exe
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.deps.json
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.runtimeconfig.json
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.runtimeconfig.dev.json
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.dll
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\bin\Debug\netcoreapp3.1\PartialDemo.pdb
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\obj\Debug\netcoreapp3.1\PartialDemo.dll
+D:\sravani\c#\HandsOn\11-01-2020\PartialDemo\obj\Debug\netcoreapp3.1\PartialDemo.pdb

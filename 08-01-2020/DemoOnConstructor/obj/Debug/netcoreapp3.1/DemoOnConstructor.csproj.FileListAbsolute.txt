@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\DemoOnConstructor\obj\Debug\netcoreapp3.1\DemoOnConstructor.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DemoOnConstructor\obj\Debug\netcoreapp3.1\DemoOnConstructor.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DemoOnConstructor\obj\Debug\netcoreapp3.1\DemoOnConstructor.AssemblyInfo.cs
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.exe
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.deps.json
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.runtimeconfig.json
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.runtimeconfig.dev.json
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.dll
+C:\Users\dell\source\repos\DemoOnConstructor\bin\Debug\netcoreapp3.1\DemoOnConstructor.pdb
+C:\Users\dell\source\repos\DemoOnConstructor\obj\Debug\netcoreapp3.1\DemoOnConstructor.dll
+C:\Users\dell\source\repos\DemoOnConstructor\obj\Debug\netcoreapp3.1\DemoOnConstructor.pdb
